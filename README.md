@@ -1,6 +1,13 @@
 # staffsync-workforce-scheduling
 StaffSync is a workforce scheduling optimisation application built using Python and Streamlit.  The application helps businesses allocate staff efficiently by analysing shift requirements,  staff availability, and scheduling constraints.  The goal is to reduce manual scheduling effort and improve operational efficiency.
 
+## Live Demo
+
+🔗 **Live Application:** https://staffsync.streamlit.app/
+
+This Streamlit application allows users to input staff availability
+and shift requirements to generate an optimised workforce schedule.
+
 ## Problem Statement
 Many businesses still rely on manual spreadsheets to schedule employees across shifts.
 This process is time-consuming and often leads to inefficient staff allocation.
